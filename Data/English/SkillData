@@ -1,0 +1,553 @@
+Poison Resistance,3,0,0
+Grants protection against the effects of poison.
+Reduces the duration of poison by 30%.
+Reduces the duration of poison by 60%.
+Prevents poison.
+Paralysis Resistance,3,0,0
+Reduces the duration of paralysis.
+Reduces the duration of paralysis by 30%.
+Reduces the duration of paralysis by 60%.
+Prevents paralysis.
+Sleep Resistance,3,0,0
+Reduces the duration of sleep.
+Reduces the duration of sleep by 30%.
+Reduces the duration of sleep by 60%.
+Prevents sleep.
+Stun Resistance,3,0,0
+Reduces stun duration.
+Resistance the duration of stun by 30%.
+Reduces the duration of stun by 60%.
+Prevents stun.
+Muck Resistance,1,0,0
+Reduces impairments to mobility while stuck in monster muck.
+Reduces limits on movement speed and evasion.
+Blast Resistance,3,0,0
+Grants protection againts blastblight.
+Delays blastblight and reduces blast damage.
+Greatly delays blastblight and greatly reduces blast damage.
+Prevents blastblight.
+Bleeding Resistance,3,0,0
+Grants protection againts bleeding.
+Reduces damange while bleeding.
+Greatly reduces damange while bleeding.
+Prevents bleeding.
+Iron Skin,3,0,0
+Grants protection againts Defense Down.
+Reduces the duration of Defense Down by 30%.
+Reduces the duration of Defense Down by 60%.
+Prevents Defense Down.
+Earplugs,5,0,0
+Grants protection from large monsters' roars.
+Slightly reduces the effects of weak monster roars.
+Reduces the effects of weak monster roars.
+Nullifies weak monster roars.
+Nullifies weak monster roars and reduces the effects of strong monster roars.
+Nullifies weak and strong monaster roars.
+Windproof,5,0,0
+Grants protection againts wind pressure.
+Slightly reduces the effects of minor wind pressure.
+Reduces the effects of minor wind pressure.
+Negates minor wind pressure.
+Negates minor wind pressure and reduces the effects of major wind pressure.
+Negates minor and major wind pressure.
+Tremor Resistance,3,0,0
+Grants protection against ground tremors.
+Nullifies minor ground tremores.
+Nullifies minor ground tremors and reduces the effects of major ground tremores.
+Nullifies minor and major ground tremors.
+Dungmaster,1,0,0
+Make monster hit with slinger dung pods more likely to run.
+Makes slinger dung pods more effective at making monster run away.
+Effluvial Expert,1,0,0
+Nullifies or reduces environmental damage in the Rotten Vale.
+Nullifies damage from effluvia and reduces damange from acids.
+Heat Guard,1,0,0
+Nullifies damage from heat.
+Nullifies heat damage.
+Attack Boost,7,0,0
+Increases attack power. Also improves affinity at higher levels.
+Attack +3
+Attack +6
+Attack +9
+Attack +12, Affinity +5%
+Attack +15, Affinity +5%
+Attack +18, Affinity +5%
+Attack +21, Affinity +5%
+Defense Boost,7,0,0
+Increases defense. Level up to improve resistances as well.
+Defense +5
+Defense +10
+Defense +15
+Defense +20, All Elemental Resistance +3
+Defense +25, All Elemental Resistance +3
+Defense +30, All Elemental Resistance +3
+Defense +25, All Elemental Resistance +3
+Health Boost,3,0,0
+Increases health.
+Health +15
+Health +30
+Health +50
+Recovery Up,3,0,0
+Increases the amount recovered when restoring health.
+Recovery +10%
+Recovery +20%
+Recovery +30%
+Recovery Speed,3,0,0
+Speed healing of recoverable damage (the red portion of the health guage).
+Doubles the speed at which you heal recoverable damage.
+Triples the speed at which you heal recoverable damage.
+Quadruples the speed at which you heal recoverable damage.
+Fire Resistance,3,0,0
+Increases fire resistance. Also improves defense at higher levels.
+Fire Resistance +6
+Fire resistance +12
+Fire resistance +20, Defense +10
+Water Resistance,3,0,0
+Increases water resistance. Also improves defense at higher levels.
+Water Resistance +6
+Water resistance +12
+Water resistance +20, Defense +10
+Ice Resistance,3,0,0
+Increases ice resistance. Also improves defense at higher levels.
+Ice resistance +6
+Ice resistance +12
+Ice resistance +20, Defense +10
+Thunder Resistance,3,0,0
+Increases thunder resistance. Also improves defense at higher levels.
+Thunder Resistance +6
+Thunder resistance +12
+Thunder resistance +20, Defense +10
+Dragon Resistance,3,0,0
+Increases dragon resistance. Also improves defense at higher levels.
+Dragon Resistance +6
+Dragon resistance +12
+Dragon resistance +20, Defense +10
+Blight Resistance,3,0,0
+Grants protection against all elemental blights.
+Reduces the duration of elemental blights by 30%.
+Reduces the duration of elemental blights by 60%.
+Prevents elemental blights.
+Fire Attack,5,0,0
+Increases fire element attack power. (Elemental attack power has a maximum limit.)
+Fire attack +30
+Fire attack +60
+Fire attack +100
+Fire attack +5%, Bonus: +100
+Fire attack +10%, Bonus: +100
+Water Attack,5,0,0
+Increases water element attack power. (Elemental attack power has a maximum limit.)
+Water attack +30
+Water attack +60
+Water attack +100
+Water attack +5%, Bonus: +100
+Water attack +10%, Bonus: +100
+Ice Attack,5,0,0
+Increases ice element attack power. (Elemental attack power has a maximum limit.)
+Ice attack +30
+Ice attack +60
+Ice attack +100
+Ice attack +5%, Bonus: +100
+Ice attack +10%, Bonus: +100
+Thunder Attack,5,0,0
+Increases thunder element attack power. (Elemental attack power has a maximum limit.)
+Thunder attack +30
+Thunder attack +60
+Thunder attack +100
+Thunder attack +5%, Bonus: +100
+Thunder attack +10%, Bonus: +100
+Dragon Attack,5,0,0
+Increases dragon element attack power. (Elemental attack power has a maximum limit.)
+Dragon attack +30
+Dragon attack +60
+Dragon attack +100
+Dragon attack +5%, Bonus: +100
+Dragon attack +10%, Bonus: +100
+Poison Attack,3,0,0
+Increases the rate of poison buildup
+Poison buildup +5%, Bonus: +10
+Poison buildup +10%, Bonus: +10
+Poison buildup +20%, Bonus: +10
+Paralysis Attack,3,0,0
+Increases the rate of paralysis buildup
+Paralysis buildup +5%, Bonus: +10
+Paralysis buildup +10%, Bonus: +10
+Paralysis buildup +20%, Bonus: +10
+Sleep Attack,3,0,0
+Increases the rate of sleep buildup
+Sleep buildup +5%, Bonus: +10
+Sleep buildup +10%, Bonus: +10
+Sleep buildup +20%, Bonus: +10
+Blast Attack,3,0,0
+Increases the rate of blast buildup
+Blast buildup +5%, Bonus: +10
+Blast buildup +10%, Bonus: +10
+Blast buildup +20%, Bonus: +10
+Normal Shots,1,0,0
+Increases the attack power of normal ammo and normal arrows.
+Increases the power of normal ammo and normal arrows.
+Piercing Shots,1,0,0
+Increases the attack power of piercing ammo and Dragon Piercer.
+Increases the power of piercing ammo and Dragon Piercer.
+Spread/Power Shots,1,0,0
+Increases the attack power of spread ammo and power shot arrows.
+Increases the power of spread ammo and power shot arrows.
+Free Elem/Ammo Up,3,0,0
+Unlocks your weapon's hidden element. Also increases bowgun loading capacity. (There is a cap to loading capacity.)
+Draws out 33% of hidden element and expands clip size for some ammo.
+Draws out 66% of hidden element and expands clip size for some ammo.
+Draws out 100% of hidden element and expands clip size for some ammo.
+Poison Functionality,1,1,0
+Allows you to apply poison coatings.
+Lets you use poison coating.
+Paralysis Functionality,1,1,0
+Allows you to apply paralysis coating.
+Lets you use paralysis coating.
+Sleep Functionality,1,1,0
+Allow syou to apply sleep coating.
+Lets you use sleeping coating.
+Blast Functionality,1,1,0
+Allows you to apply blast coating.
+Let's you use blasting coating.
+Critical Eye,7,0,0
+Increases affinity.
+Affinity +3%
+Affinity +6%
+Affinity +10%
+Affinity +15%
+Affinity +20%
+Affinity +25%
+Affinity +30%
+Critical Boost,3,0,0
+Increases the damage of cirtical hits.
+Increases damage dealt by critical hits by 30%
+Increases damage dealt by critical hits by 35%
+Increases damage dealt by critical hits by 40%
+Weakness Exploit,3,0,0
+Increases the affinity of attacks that exploit a monster weak spot.
+Attacks that hit weak spots have 15% increased affinity.
+Attacks that hit weak spots have 30% increased affinity.
+Attacks that hit weak spots have 50% increased affinity.
+Focus,3,0,0
+Increases the fill rate for weapons with guages and the charge rate for weapons with charge attacks.
+Increases guage fill rate by 5% and reduces charge times by 5%.
+Increases guage fill rate by 10% and reduces charge times by 10%.
+Increases guage fill rate by 20% and reduces charge times by 20%.
+Power Prolonger,3,0,0
+Allows lonmg swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer.
+Bonus duration +10%
+Bonus duration +20%
+Bonus duration +30%
+Handicraft,5,0,0
+Extends the weapon sharpness guage. However, it will not increase the guage past its maximum.
+Weapon sharpness +10
+Weapon sharpness +20
+Weapon sharpness +30
+Weapon sharpness +40
+Weapon sharpness +50
+Critical Draw,3,0,0
+Increases affinity when performing draw attacks.
+Draw attack affinity +30%
+Draw attack affinity +60%
+Draw attack affinity +100%
+Partbreaker,3,0,0
+Makes it easier to break or sever parts of large monster.
+Part damage +10%
+Part damage +20%
+Part damage +30%
+Slugger,3,0,0
+Makes it easier to stun monsters.
+Stun power +10%
+Stun power +20%
+Stun power +30%
+Stamina Thief,3,0,0
+Increases certain attacks' ability to exhaust monsters.
+Exhaust power +10%
+Exhaust power +20%
+Exhaust power +30%
+Master Mounter,1,0,0
+Makes it easier to mount monsters.
+Makes it easier to mount monsters and down mounted monsters.
+Airborne,1,0,0
+Increases the damage caused by jumping attacks.
+Jumping attacks power +10%
+Latent Power,5,0,0
+Temporarily increased affinity and reduces stamina depletion when certain conditions are met.
+While active, increases affinity by 10% and reduces stamina depletion by 10%.
+While active, increases affinity by 20% and reduces stamina depletion by 10%.
+While active, increases affinity by 30% and reduces stamina depletion by 30%.
+While active, increases affinity by 40% and reduces stamina depletion by 30%.
+While active, increases affinity by 50% and reduces stamina depletion by 50%.
+Agitator,5,0,0
+Increases attack power and affinity when large monsters become enraged.
+While active, grants attack +4 and increases affinity by 3%.
+While active, grants attack +8 and increases affinity by 6%.
+While active, grants attack +1 and increases affinity by 9%.
+While active, grants attack +16 and increases affinity by 12%.
+While active, grants attack +20 and increases affinity by 15%.
+Peak Performance,3,0,0
+Increaes attack when your health is full.
+While active, grants attack +5.
+While active, grants attack +10.
+While active, grants attack +20.
+Heroics,5,0,0
+Increases attack power and defense when health drops to 35% or lower.
+While active, increases attack power by 5% and increases defense by 15 points.
+While active, increases attack power by 10% and increases defense by 20 points.
+While active, increases attack power by 15% and increases defense by 25 points.
+While active, increases attack power by 20% and increases defense by 30 points.
+While active, increases attack power by 30% and increases defense by 40 points.
+Fortify,1,0,0
+Increases your attack and defense every time you fall in battle. (This effect can stack twice.)
+Increases attack by 10% and defense by 15% by each use.
+Resentment,5,0,0
+Increases attack when you have recoverable damage (the red portion of your health gauge).
+While active, grants attack +5.
+While active, grants attack +10.
+While active, grants attack +15.
+While active, grants attack +20.
+While active, grants attack +25.
+Resuscitate,1,0,0
+Improves evasion and reduces stamina depletion when afflicated with abnormal status effects.
+While active, greatly improves evasion invulnerability time and reduces stamina depletion.
+Horn Maestro,1,0,0
+Increases the effect duration of hunting horn melodies.
+Extends melody effect duration and increases health recovery.
+Capacity Boost,1,0,0
+Increases the gunlance's shell capacity and charge blade's phial capacity.
+Loading capacity +1
+Special Ammo Boost,2,0,0
+Increases the power of bowgun special ammo and Dragon Piercer
+Increases the power of bowgun special ammo and Dragon Piercer by 10%.
+Increases the power of bowgun special ammo and Dragon Piercer by 20%.
+Artillery,3,0,0
+Strengthens explosive attacks like gunlance sheels, Wyvern's Fire, Charge blade phial attacks, and sticky ammo.
+Increases power of each attacks by 10% and reduces Wyvern's Fire cooldown by 15%.
+Increases power of each attacks by 20% and reduces Wyvern's Fire cooldown by 30%.
+Increases power of each attacks by 30% and reduces Wyvern's Fire cooldown by 50%.
+Heavy Artillery,2,0,0
+Increases the firepower of ballistae and cannons.
+Firepower +10%
+Firepower +20%
+Marathon Runner,3,0,0
+Slows down stamina depletion for actiosn which continuously drain stamina (such as dashing).
+Reduces continuous stamina depletion by 15%.
+Reduces continuous stamina depletion by 30%.
+Reduces continuous stamina depletion by 50%.
+Constitution,5,0,0
+Reduces stamina depletion when performing stamina-draining moves such as evading, etc.
+Reduces fixed stamina depletion by 10%.
+Reduces fixed stamina depletion by 20%.
+Reduces fixed stamina depletion by 30%.
+Reduces fixed stamina depletion by 40%.
+Reduces fixed stamina depletion by 50%.
+Leap of Faith,1,0,0
+Allows you to do a dive-evade when facing towards large monsters, and extends the dive-evade distance.
+Enables Leap of Faith.
+Stamina Surge,3,0,0
+Speeds up stamina recovery.
+Stamina recovery speed +10%.
+Stamina recovery speed +20%.
+Stamina recovery speed +30%.
+Hunger Resistance,3,0,0
+Reduces maximum stamina depletion over time.
+Extends the time until your stamina cap decreases by 30%.
+Extends the time until your stamina cap decreases by 60%.
+Prevents your stamina cap from decreasing.
+Evade Window,5,0,0
+Extends the invulnerability period when evading.
+Very slightly increases invulnerability window.
+Slightly increases invulnerability window.
+Increases invulnerability window.
+Greatly increases invulnerability window.
+Massively increases invulnerability window.
+Evade Extender,3,0,0
+Increases evade distance.
+Slightly extends evasion distance.
+Extends evasion distance.
+Greatly extends evasion distance.
+Guard,5,0,0
+Reduces knockbacks and stamina decreases when guarding.
+Very slightly decreases the impact of attacks
+Slightly decreases the impact of attack and reduces stamina depletion by 15%.
+Greatly decreases the impact of attack and reduces stamina depletion by 15%.
+Greatly decreases the impact of attack and reduces stamina depletion by 30%.
+Massively decreases the impact of attack and reduces stamina depletion by 50%.
+Quick Sheath,3,0,0
+Speeds up weapon sheathing.
+Slightly increases sheathing speed.
+Moderately increases sheathing speed.
+Greatly increases sheathing speed.
+Wide-Range,5,0,0
+Allows the effects of certain items to also affect nearby allies.
+Item affect nearby allies with 33% of their efficacy.
+Items affect nearby allies in a wider radius with 33% of their efficacy.
+Items affect nearby allies in a wider radius with 66% of their efficacy.
+Items affect nearby allies in a much wider radius with 66% efficacy.
+Items affect nearby allies in a much wider radius with full efficacy.
+Item Prolonger,3,0,0
+Extends the duration of some item effects.
+Item effect duration +10%
+Item effect duration +25%
+Item effect duration +50%
+Free Meal,1,0,0
+Gives you a predetermined chance of consuming a food or drink item for free
+Activates 25% of the time.
+Speed Eating,3,0,0
+Increases meat-eating and item-consumption speed.
+Slightly increases item use speed.
+Moderately increases item use speed.
+Greatly increases item use speed.
+Speed Sharpening,3,0,0
+Speeds up weapon sharening when using a whetstone.
+Removes one cycle from the sharening process.
+Removes two cycle from the sharening process.
+Removes three cycle from the sharening process.
+Bombardier,3,0,0
+Increases the damage of explosive items.
+Explosive power 10%
+Explosive power 20%
+Explosive power 30%
+Mushroomancer,3,0,0
+Lets you digest mushrooms that would otherwise be inedible and gain their advantageous effect.
+Lets you digest blue mushrooms and toadstools.
+Additionally lets you digest nitroshrooms and parashrooms.
+Additionally lets you digest mandragoras, devil's blight, and exciteshrooms.
+Master Fisher,1,0,0
+Improves your skill at fishing
+Increases the time window for reeling in fish, and makes it easier to catch large fish.
+BBQ Master,1,0,0
+Improves your skills at cooking meat.
+Makes it easier to cook well-done steaks.
+Pro Transporter,1,0,0
+Increases your speed while transporting items and decreases the lieklihood of dropping them.
+Increases movement speed while transporting and reduces downtime on landings.
+Master Gatherer,1,0,0
+Allows you to gather more quickly, and also prevents attacks from knocking you back while gathering.
+Speeds up gathering and prevents knockbacks while gathering.
+Honey Hunter,1,0,0
+Increases the quantity of honey you receive when gathering in the field.
+One extra honey per gather.
+Carving Pro,1,0,0
+Prevents knockback from attacks while carving.
+Prevents knockback while carving.
+Divine Blessing,3,0,0
+Has a predetermined chance of reducing the damage you take.
+While active, reduces damage taken by 15%.
+While active, reduces damage taken by 30%.
+While active, reduces damage taken by 50%.
+Palico Rally,5,0,0
+Powers up Palicoes.
+Increases Palico attack power and defense by 5%.
+Increases Palico attack power and defense by 10%.
+Increases Palico attack power and defense by 15%.
+Increases Palico attack power and defense by 20%.
+Increases Palico attack power and defense by 25%.
+Botanist,4,0,0
+Increases the quantity of herbs and other consumable items you gather.
+One extra consumable herb item per gather.
+One extra consumable herb, fruit, nut, or seed item per gather.
+One extra consumable herb, fruit, nut, seed, or insect item per gather.
+One extra consumable herb, fruit, nut, speed, insect, or mushroom item per gather.
+Geologist,3,0,0
+Increases the number of times you can use a gathering point.
+Allows you to gather one extra time from bonepiles
+Allows you to gather one extra time from bonepiles and special item gathering points.
+Allows you to gather one extra time from bonepiles, gathering points, and mining outcrops.
+Maximum Might,3,0,0
+Increases affinity when stamina is full.
+While active, increases affinity by 10%.
+While active, increases affinity by 20%.
+While active, increases affinity by 30%.
+Slinger Capacity,3,0,0
+Increases the loading capacity for slinger ammo obtained in the field.
+Increases the loading capacity for slinger ammo collected from the ground or plants.
+In addition, increases the loading capacity for some sliger ammo dropped by monsters.
+In addition, increases the loading capacity for all slinger ammo dropped by monsters.
+Stealth,3,0,0
+Makes it easier for monsters to lose sight of you.
+Makes it slightly easier for monsters to lose sight of you.
+Makes it moderately easier for monsters to lose sight of you.
+Makes it much easier for monsters to lose sight of you.
+Flinch Free,3,0,0
+Prevents knockbacks and other reactions to small damage.
+Prevents knockbacks.
+Prevents standard knockbacks. Tripping is reduced to a knockback instead.
+Prevents knockback and tripping.
+Scoutfly Range Up,1,0,0
+Expands your scoutflies' detection range.
+Expands your scoutflies' detection range.
+Speed Crawler,1,0,0
+Increases movement speed while crouching.
+Increases movement speed while crouching.
+Jump Master,1,0,0
+Prevents attacks from knocking you back during a jump.
+Negates knockback during jumps.
+Sporepuff Expert,3,0,0
+Recover health when using sporepuffs.
+Sporepuffs restore 20 health.
+Sporepuffs restore 35 health.
+Sporepuffs restore 60 health.
+Aquatic Expert,3,0,0
+Improves mobility in water.
+Prevents water from slowing movement.
+Prevents water from slowing movement and improves evasion while in water.
+Prevents water from slowing movement and greatly improves evasion while in water.
+Cliffhanger,1,0,0
+Decreases stamina depletion when evading while clining to walls or ivy.
+Reduces stamina depletion while climbing by 25%.
+Blindsider,1,0,0
+Improves the effectiveness of flash attacks and items.
+Increases the success rate of flash effects.
+Scholar,1,0,0
+Speeds up progress on research levels and special investigation. (Effects is applied at the quest results screen.)
+Speeds up progress on research levels and special investigations.
+Entomologist,3,0,0
+Decreases the changes of destroying the bodies of small insect monsters, allowing them to be carved.
+Increases the chances of the corpse being left behind.
+Greatly increases the chances of a corpse being left behind.
+Makes it so corpses will always be left behind.
+Effluvia Resistance,3,0,0
+Gain a resistance to effluvial buildup.
+Reduces effluvial buildup.
+Greatly reduces effluvial buildup.
+Prevents effluvial buildup.
+Scenthound,1,0,0
+Increases your scoutflies' gauge fill rate when you find tracks and other traces left by monsters.
+Increases guage fill rate by 50%.
+Forager's Luck,1,0,0
+Increases the chance of finding rare gathering points.
+Increases the lieklihood of rare gathering points respawning.
+Detector,1,0,0
+Shows rare gathering points on the Wildlife Map.
+Marks rare sites on the wildlife map.
+Tool Specialist,3,0,0
+Reduces the recharge time for specialized tools.
+Shortens time untile reuse by 5%.
+Shortens time untile reuse by 10%.
+Shortens time untile reuse by 20%.
+Affinity Sliding,1,0,0
+Sliding increases your affinity for a short time.
+Increases affinity by 30% for a short time after sliding.
+Intimidator,3,0,0
+Reduces the chances small monsters will attack after spotting you. (No effect on certain monsters.)
+Discourages monsters from engaging you even if you've been spotted.
+Highly discourages monsters from engaging you even if you've been spotted.
+Prevents monsters from engaging you even if you've been spotted.
+Elderseal Boost,1,0,0
+Increases the Elderseal of weapons and dragon ammo.
+Boost Elderseal one level.
+Bow Charge Plus,1,0,1
+Increase Max Bow Charge level by one.
+Activates skill effect.
+Guard Up,1,0,1
+Allows you to guard against ordinarily unblockable attacks.
+Activates skill effect.
+Mind's Eye/Ballistic,1,0,1
+Prevents attacks from being deflected. Also shortens the distance before ammo and arrows reach maximum power.
+Activates skill effect.
+Non-elemental Boost,1,0,1
+Powers up non-elemental weapons you have equipped.
+Raises base attack for non-elemental weapons.
+Protective Polish,1,0,1
+Weapon sharpness does not decrease for a set time after sharpening.
+Enables skill use.
