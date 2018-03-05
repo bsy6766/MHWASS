@@ -1,0 +1,13 @@
+Changelog
+
+v.1.1
+[Fixed] Fixed bug where set skill description didn't update properly when selected on list.
+[Fixed] Fixed bug where leg armor list didn't display high rank armor correctly.
+[Fixed] Fixed bug where Vaal Hazak Braces b had wrong skill level.
+[Fixed] Fixed bug where wrong armor was in search when set skill was added.
+[Added] Added Korean translation for option menu.
+[Added] Added version to window title.
+[Removed] Removed Muck Res Jewel.
+
+v1.0
+First release
