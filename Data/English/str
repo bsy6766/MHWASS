@@ -27,9 +27,11 @@ Jewel name
 Level
 Rarity
 Skill
+Count
 Jewel
 Select all
 Deselect all
+Reset all count
 Search options
 Search
 Stop
@@ -59,6 +61,9 @@ Allow overleveled skill
 Search from higher rarity
 Simplify search result
 Show max level
+Save
+Open
+Exit
 Clear
 Allow low rank armor
 Allow arena armor
@@ -66,3 +71,5 @@ Allow event armor
 Gender
 Male
 Female
+Report bug
+Failed to open file.
