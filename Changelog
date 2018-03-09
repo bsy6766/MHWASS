@@ -1,6 +1,15 @@
 Changelog
 
-v.1.1
+v1.2
+[Fixed] Fixed bug where application crached when app was closed while searching.
+[Fixed] Fixed bug where clear option didn't clear everything.
+[Added] Added decoration count to limit the number of decoration usages.
+[Added] Added feature to save and open setting.
+[Added] Added bug report link to help menu.
+[Added] Added Sealed Eyepatch α.
+[Added] Added Shadow Shades α.
+
+v1.1
 [Fixed] Fixed bug where set skill description didn't update properly when selected on list.
 [Fixed] Fixed bug where leg armor list didn't display high rank armor correctly.
 [Fixed] Fixed bug where Vaal Hazak Braces b had wrong skill level.
