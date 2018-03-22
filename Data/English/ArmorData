@@ -992,6 +992,20 @@ Commission Vambraces β,1,Blindsider,1,1,2
 Commission Belt β,1,Mushroomancer,1,1,2
 Commission Pants β,1,Stealth,2,1,2
 
+Deviljho α,7,58,0,0,0
+Vangis Helm α,2,Partbreaker,1,Handicraft,1,1,1
+Vangis Mail α,2,Speed Eating,1,Handicraft,1,1,2
+Vangis Vambraces α,2,Latent Power,2,Partbreaker,1,0
+Vangis Coil α,2,Latent Power,1,Handicraft,1,1,1
+Vangis Greaves α,2,Speed Eating,2,Partbreaker,1,0
+
+Deviljho β,7,58,0,0,0
+Vangis Helm β,1,Partbreaker,1,2,3,1
+Vangis Mail β,1,Speed Eating,1,1,3
+Vangis Vambraces β,1,Latent Power,2,1,2
+Vangis Coil β,1,Latent Power,1,2,3,1
+Vangis Greaves β,1,Speed Eating,2,2,1,1
+
 Dragonseal Earrings,7,60,0,1,0
 Dragonseal Earrings,1,Elderseal Boost,1,0
 -
@@ -1006,13 +1020,6 @@ Pulverizing Feather,1,Bombardier,3,0
 -
 -
 
-Wiggler Head α,5,46,0,0,1
-Wiggler Head α,1,Wide-Range,2,2,1,1
--
--
--
--
-
 Sealed Eyepatch α,5,46,0,0,1
 Sealed Eyepatch α,1,Fire Resistance,1,2,2,1
 -
@@ -1022,6 +1029,13 @@ Sealed Eyepatch α,1,Fire Resistance,1,2,2,1
 
 Shadow Shades α,5,46,0,0,1,
 Shadow Shades α,1,Stun Resistance,1,3,1,1,1
+-
+-
+-
+-
+
+Wiggler Head α,5,46,0,0,1
+Wiggler Head α,1,Wide-Range,2,2,1,1
 -
 -
 -

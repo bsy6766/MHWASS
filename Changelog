@@ -1,5 +1,9 @@
 Changelog
 
+v1.3
+[Added] Added minimum armor rarity search option.
+[Added] Added Deviljho armor.
+
 v1.2
 [Fixed] Fixed bug where application crached when app was closed while searching.
 [Fixed] Fixed bug where clear option didn't clear everything.
