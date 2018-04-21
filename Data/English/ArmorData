@@ -229,6 +229,27 @@ Kirin Longarms,1,Blight Resistance,1,0
 Kirin Hoop,1,Thunder Attack,1,0
 Kirin Leg Guards,1,Thunder Resistance,1,0
 
+Blossom,3,18,0,0,1
+Blossom Headgear,1,Honey Hunter,1,0
+Blossom Vest,1,Quick Sheath,1,0
+Blossom Cuffs,1,Paralysis Resistance,1,0
+Blossom Coil,1,Scoutfly Range Up,1,0
+Blossom Boots,1,Recovery Speed,1,0
+
+Butterfly,3,22,1,0,1
+Butterfly Vertex,1,Stun Resistance,1,0
+Butterfly Thorax,1,Health Boost,1,0
+Butterfly Brachia,1,Critical Eye,1,0
+Butterfly Elytra,1,Defense Boost,1,0
+Butterfly Cruca,1,Marathon Runner,1,0
+
+Queen Beetle,3,22,2,0,1
+Queen Beetle Vertex,1,Stun Resistance,1,0
+Queen Beetle Thorax,1,Health Boost,1,0
+Queen Beetle Brachia,1,Critical Eye,1,0
+Queen Beetle Elytra,1,Defense Boost,1,0
+Queen Beetle Cruca,1,Marathon Runner,1,0
+
 Leather α,5,32,0,0,0
 Leather Headgear α,1,Hunger Resistance,2,0
 Leather Mail α,1,Fire Resistance,1,0
@@ -1005,6 +1026,27 @@ Vangis Mail β,1,Speed Eating,1,1,3
 Vangis Vambraces β,1,Latent Power,2,1,2
 Vangis Coil β,1,Latent Power,1,2,3,1
 Vangis Greaves β,1,Speed Eating,2,2,1,1
+
+Kulve Taroth α,8,72,0,0,1
+Kulve Taroth's Fury α,2,Free Elem/Ammo Up,1,Agitator,2,1,1
+Kulve Taroth's Ire α,2,Stun Resistance,2,Critical Boost,2,1,1
+Kulve Taroth's Rage α,2,Free Elem/Ammo Up,1,Power Prolonger,2,1,1
+Kulve Taroth's Malice α,2,Free Elem/Ammo Up,1,Handicraft,2,1,1
+Kulve Taroth's Wrath α,2,Wide-Range,2,Peak Performance,2,1,1
+
+Kulve Taroth β,8,72,0,0,1
+Kulve Taroth's Fury β,2,Free Elem/Ammo Up,1,Agitator,1,2,2,1
+Kulve Taroth's Ire β,2,Stun Resistance,2,Critical Boost,1,2,3,1
+Kulve Taroth's Rage β,2,Free Elem/Ammo Up,1,Power Prolonger,1,2,3,1
+Kulve Taroth's Malice β,2,Free Elem/Ammo Up,1,Handicraft,1,2,3,1
+Kulve Taroth's Wrath β,2,Wide-Range,2,Peak Performance,1,2,2,1
+
+Blossom α,5,40,0,0,1
+Blossom Headgear α,1,Honey Hunter,1,2,1,1
+Blossom Vest α,1,Quick Sheath,1,2,1,1
+Blossom Cuffs α,1,Paralysis Resistance,2,1,1
+Blossom Coat α,1,Scoutfly Range Up,1,2,1,1
+Blossom Boots α,1,Recovery Up,1,2,1,1
 
 Dragonseal Earrings,7,60,0,1,0
 Dragonseal Earrings,1,Elderseal Boost,1,0
